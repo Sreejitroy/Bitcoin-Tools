@@ -1,12 +1,11 @@
 Bitcoin Mnemonic Recovery Tool
-Overview
 
+Overview :-
 This tool helps recover up to 3 lost words from a BIP39 mnemonic seed phrase, supporting both 12-word and 24-word phrases. It is designed to assist users who may have lost a few words from their seed phrase and need to recover access to their Bitcoin wallets.
 
 Warning: This tool is intended for educational purposes only. Use it wisely and securely. Never share your seed phrase or private key with anyone. Always ensure you are using it in a trusted environment.
 
 Features :-
-
 Recovery of up to 3 lost words from BIP39 12-word and 24-word seed phrases.
 
 Compatible with Bitcoin and other cryptocurrencies that use BIP39.
@@ -29,7 +28,7 @@ If you're using Python, ensure that Python 3.7+ is installed. Then, run:
 
 pip install -r requirements.txt
 
-Usage
+Usage -
 1. Prepare Your Seed Phrase
 
 You will need the 12-word or 24-word seed phrase with missing words. The tool will attempt to recover those missing words.
@@ -94,6 +93,14 @@ Partial Recovery: If only one or two words are missing, the tool can attempt all
 Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements, bug fixes, or new features are always welcome!
+
+Support the Project
+
+**If you find this tool useful and would like to support its development, feel free to send a donation to the following Bitcoin address:
+
+bc1qljc2hgctk9xhwgk8t2t6f7nlccdvxg78xzt57k
+
+Thank you for your support! 💖**
 
 License
 
