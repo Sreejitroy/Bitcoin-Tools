@@ -98,7 +98,7 @@ Support the Project
 
 **If you find this tool useful and would like to support its development, feel free to send a donation to the following Bitcoin address:
 
-bc1qljc2hgctk9xhwgk8t2t6f7nlccdvxg78xzt57k
+bc1q6c7djdt5mlhgh8lmc3dnx797s07psrdfmwwfmd
 
 Thank you for your support! 💖**
 
