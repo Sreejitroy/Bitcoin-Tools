@@ -19,7 +19,7 @@ Installation
 To use this tool, follow these steps:
 
 1. Clone this repository
-git clone https://github.com/yourusername/bitcoin-mnemonic-recovery-tool.git
+git clone https://github.com/Sreejitroy/Bitcoin-Tools.git
 cd bitcoin-mnemonic-recovery-tool
 
 2. Install dependencies
